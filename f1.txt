@@ -1,1 +1,3 @@
 This is a file where I am going to give configuration
+username=CG
+pwd=cg@123
